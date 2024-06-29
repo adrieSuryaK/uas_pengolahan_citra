@@ -1,0 +1,11 @@
+flask>=3.0.1
+opencv-python>=4.9.0.80
+pandas>=2.1.4
+numpy>=1.23.0
+ultralytics>=8.1.25
+yt-dlp>=2023.12.30
+vidgear>=0.3.2
+websocket-client>=1.7.0
+websockets>=12.0
+cvzone>=1.6.1
+cap>=0.1.4
